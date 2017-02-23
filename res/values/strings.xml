@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BikerBob</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">BikerBob</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_level_select">LevelSelect</string>
+
+</resources>
